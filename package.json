@@ -1,0 +1,26 @@
+{
+  "name": "sane-chokidar",
+  "version": "1.0.0",
+  "description": "Chokidar watcher plugin for sane",
+  "main": "chokidar_watcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/sane-chokidar.git"
+  },
+  "keywords": [
+    "sane",
+    "chokidar"
+  ],
+  "author": "exponent.team@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/sane-chokidar/issues"
+  },
+  "homepage": "https://github.com/exponentjs/sane-chokidar#readme",
+  "dependencies": {
+    "chokidar": "^1.0.5"
+  }
+}
